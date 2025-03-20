@@ -149,7 +149,6 @@ t.write(solution,font=("arial",30,'normal'),align="center")
 
 
 
-
 t.penup()
 t.goto(0,-100)
 t.pendown()
